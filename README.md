@@ -10,7 +10,7 @@ This repository is made to view the task submission file that I have uploaded fo
 
 Conclusion & Analyzed Information
 what i found:-
-1- From first visualization we can say that, 2014 is thhe year which has most number of attacks.
+1- From first visualization we can say that, 2014 is the year which has most number of attacks.
 2- From second visualization we can see that, IRAQ is the most affected among the top 15 country. 
 3- From third visualization we can see that, total number of people died in the terror attack is 411868.
 4- From fourth visualization it could be said that, Afghanistan is the country which has most number of deaths.
